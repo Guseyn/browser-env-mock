@@ -1,2 +1,2 @@
 # browser-env-mock
-Mock for browser environment in node.
+Mock for browser environment in Node.
